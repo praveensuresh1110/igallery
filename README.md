@@ -181,7 +181,7 @@ Publish the website in the given URL.
 
 ~~~
 ## OUTPUT:
-![Uploading 526176458-ae34de8e-ae3a-45fc-8f13-c2a04ad449e5.png…]()
+<img width="904" height="976" alt="526176458-ae34de8e-ae3a-45fc-8f13-c2a04ad449e5" src="https://github.com/user-attachments/assets/46f44e2e-341d-4e7c-8860-13d9a6c7376d" />
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
